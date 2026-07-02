@@ -1,0 +1,369 @@
+[
+  {
+    "id": "post02",
+    "pillar": "Schlaf",
+    "format": "carousel",
+    "status": "posted",
+    "slides": [
+      {
+        "type": "hook",
+        "line1": "8 Stunden Schlaf.",
+        "line2": "Trotzdem müde?",
+        "line3": "Das ist der Grund.",
+        "subline": "Es liegt nicht an der Dauer."
+      },
+      {
+        "type": "point",
+        "tag": "01",
+        "heading": "Zu warm im Zimmer",
+        "body": [
+          "Dein Körper braucht ~18 °C,",
+          "um in den Tiefschlaf zu kippen."
+        ]
+      },
+      {
+        "type": "point",
+        "tag": "02",
+        "heading": "Blaulicht bis zuletzt",
+        "body": [
+          "Der Bildschirm sagt dem Hirn:",
+          "Es ist Mittag. Melatonin bleibt aus."
+        ]
+      },
+      {
+        "type": "point",
+        "tag": "03",
+        "heading": "Der Schlummertrunk",
+        "body": [
+          "Alkohol zerstört deine REM-Phase.",
+          "Du schläfst, erholst dich aber nicht."
+        ]
+      },
+      {
+        "type": "point",
+        "tag": "04",
+        "heading": "Koffein am Nachmittag",
+        "body": [
+          "Halbwertszeit 6 Stunden.",
+          "16-Uhr-Kaffee wirkt um 22 Uhr noch."
+        ]
+      },
+      {
+        "type": "point",
+        "tag": "05",
+        "heading": "Unregelmäßigkeit",
+        "body": [
+          "Mal 22 Uhr, mal 1 Uhr.",
+          "Deine innere Uhr findet keinen Takt."
+        ]
+      },
+      {
+        "type": "cta",
+        "lines": [
+          "Welcher Killer",
+          "ist deiner?"
+        ],
+        "sub": "Speichern & heute Abend testen.",
+        "pill": "Folge für mehr → vital.erfolg"
+      }
+    ],
+    "caption": "8 Stunden im Bett und du stehst auf wie überfahren. Schlafdauer ist überbewertet – Schlafqualität entscheidet. Die 5 stillen Killer:\n\n🌡️ ZU WARM – Dein Körper braucht ~18 °C, um in den Tiefschlaf zu kippen.\n📱 BLAULICHT BIS ZULETZT – Der Bildschirm sagt deinem Hirn: Es ist Mittag. Melatonin bleibt aus.\n🍷 DER SCHLUMMERTRUNK – Alkohol macht müde, zerstört aber deine REM-Phase. Du schläfst, erholst dich aber nicht.\n☕ KOFFEIN AM NACHMITTAG – Halbwertszeit 6 Stunden. Dein 16-Uhr-Kaffee ist um 22 Uhr noch zur Hälfte aktiv.\n⏰ UNREGELMÄSSIGKEIT – Mal 22 Uhr, mal 1 Uhr. Deine innere Uhr findet nie einen Rhythmus.\n\n💾 Speichere den Post für deinen nächsten Schlaf-Reset.\n👇 Welcher Killer ist deiner?\n\n#vitalerfolg #highperformance #biohacking #schlaf #regeneration #mindset #disziplin #selbstoptimierung #morgenroutine #erfolg",
+    "permalink": "https://www.instagram.com/p/DaIXqzvFk7v/",
+    "posted_at": "2026-06-28"
+  },
+  {
+    "id": "post05",
+    "pillar": "Energie",
+    "format": "single",
+    "template": "B",
+    "status": "posted",
+    "permalink": "https://www.instagram.com/p/DaIZpMIFEJf/",
+    "posted_at": "2026-06-28",
+    "fields": {
+      "stat": "+250%",
+      "lines": [
+        "mehr Dopamin durch",
+        "2 Minuten Kälte."
+      ],
+      "subline": "Stundenlang. Ohne Crash. Ohne Toleranz.",
+      "pill": "So startest du in der Caption"
+    },
+    "caption": "Kalt duschen klingt nach Selbstkasteiung. Tatsächlich ist es der sauberste Energie-Hebel, den du hast:\n\n⚡ +250 % DOPAMIN – und zwar stundenlang, nicht in Minuten wie bei Koffein. Kein Crash danach.\n🧊 KEINE TOLERANZ – Beim Kaffee brauchst du mit der Zeit mehr. Bei Kälte nicht.\n🧠 STRESS-TRAINING – Du lernst, ruhig zu bleiben, wenn dein Körper Alarm schlägt. Das überträgt sich auf den Alltag.\n💪 SO STARTEST DU – 30 Sekunden kalt am Ende der Dusche. Jede Woche 15 Sekunden mehr. Bis 2 Minuten.\n\nDas Unbehagen ist der Punkt. Wer es morgens freiwillig sucht, weicht ihm tagsüber seltener aus.\n\n💾 Speichere den Einstieg.\n👇 Schon mal kalt geduscht?\n\n#vitalerfolg #highperformance #biohacking #kältetherapie #dopamin #disziplin #energie #selbstoptimierung #mindset #erfolg"
+  },
+  {
+    "id": "post11",
+    "pillar": "Fokus",
+    "format": "single",
+    "template": "C",
+    "status": "posted",
+    "permalink": "https://www.instagram.com/p/DaLoyNVnT1e/",
+    "posted_at": "2026-06-29",
+    "fields": {
+      "mythos": [
+        "Disziplin ist reine",
+        "Willenskraft."
+      ],
+      "fakt": [
+        "Disziplin ist Biochemie.",
+        "Schlaf, Blutzucker und",
+        "Systeme entscheiden."
+      ],
+      "pill": "Der wahre Hebel in der Caption"
+    },
+    "caption": "Du brauchst nicht mehr Willenskraft. Willenskraft ist eine endliche Ressource – und wer sich auf sie verlässt, verliert. Disziplin ist das Ergebnis deiner Biologie:\n\n😴 SCHLAF – Übermüdet trifft dein Hirn impulsivere Entscheidungen. Disziplin beginnt im Bett.\n🩸 STABILER BLUTZUCKER – Crashs erzeugen Heißhunger und schwache Entscheidungen. Protein und Fett halten dich standhaft.\n🏗️ SYSTEME STATT MOTIVATION – Lege die Laufschuhe raus. Lösch die App. Mach die richtige Wahl zur einfachsten.\n🔁 KLEINE WIEDERHOLUNG – Disziplin ist ein Muskel, kein Geschenk. Täglich klein schlägt selten groß.\n\nHör auf, dich zu zwingen. Bau dir Bedingungen, unter denen das Richtige leicht fällt.\n\n💾 Speichere den Post.\n👇 Wo brauchst du gerade mehr Struktur?\n\n#vitalerfolg #highperformance #biohacking #disziplin #mindset #gewohnheiten #produktivität #selbstoptimierung #fokus #erfolg"
+  },
+  {
+    "id": "post10",
+    "pillar": "Fokus",
+    "format": "single",
+    "template": "D",
+    "status": "posted",
+    "permalink": "https://www.instagram.com/p/DaPcmawla2L/",
+    "posted_at": "2026-07-01",
+    "fields": {
+      "quote": [
+        [
+          "Multitasking",
+          "white"
+        ],
+        [
+          "ist eine Lüge.",
+          "white"
+        ],
+        [
+          "Dein Fokus",
+          "white"
+        ],
+        [
+          "zahlt den Preis.",
+          "cream"
+        ]
+      ],
+      "attribution": "— vital.erfolg",
+      "pill": "Die Wahrheit in der Caption"
+    },
+    "caption": "Du machst nicht mehrere Dinge gleichzeitig. Dein Gehirn springt nur hektisch hin und her – und verliert jedes Mal. Was wirklich passiert:\n\n🔀 SWITCHING-KOSTEN – Jeder Wechsel kostet Sekunden bis Minuten, bis du wieder drin bist. Bei 50 Wechseln pro Stunde bleibt nichts übrig.\n📉 –40 % PRODUKTIVITÄT – So viel Leistung verlierst du laut Studien durch ständiges Wechseln.\n😵 MEHR FEHLER – Geteilte Aufmerksamkeit heißt: weniger Tiefe, mehr Pannen.\n🧠 TRAINIERTE UNRUHE – Je öfter du springst, desto schwerer fällt dir Fokus.\n\nDie Lösung ist unspektakulär: eine Sache. Ein Tab. Ein Block Zeit.\n\n💾 Speichere den Post.\n👇 Wie viele Tabs hast du gerade offen?\n\n#vitalerfolg #highperformance #biohacking #fokus #deepwork #produktivität #disziplin #selbstoptimierung #mindset #erfolg"
+  },
+  {
+    "id": "post03",
+    "pillar": "Fokus",
+    "format": "carousel",
+    "status": "posted",
+    "permalink": "https://www.instagram.com/p/DaSmB3JoOoR/",
+    "posted_at": "2026-07-02",
+    "slides": [
+      {
+        "type": "hook",
+        "line1": "Dein Handy hat",
+        "line2": "dein Dopamin",
+        "line3": "zerstört.",
+        "subline": "So baust du es in 7 Tagen wieder auf."
+      },
+      {
+        "type": "point",
+        "tag": "01",
+        "heading": "Tag 1–2: Rand-Zeiten",
+        "body": [
+          "Erste & letzte Stunde",
+          "des Tages ohne Handy."
+        ]
+      },
+      {
+        "type": "point",
+        "tag": "02",
+        "heading": "Tag 3–4: Langeweile",
+        "body": [
+          "Keine Reize beim Warten,",
+          "Essen, Gehen. Aushalten."
+        ]
+      },
+      {
+        "type": "point",
+        "tag": "03",
+        "heading": "Tag 5: Tiefe",
+        "body": [
+          "Eine Aufgabe, 60 Minuten,",
+          "ein Tab. Kein Wechseln."
+        ]
+      },
+      {
+        "type": "point",
+        "tag": "04",
+        "heading": "Tag 6: Echtes Licht",
+        "body": [
+          "Morgens Sonne statt Bildschirm.",
+          "Dopamin natürlich, nicht digital."
+        ]
+      },
+      {
+        "type": "point",
+        "tag": "05",
+        "heading": "Tag 7: Belohnen",
+        "body": [
+          "Bewusst – nach der Arbeit,",
+          "nicht davor."
+        ]
+      },
+      {
+        "type": "cta",
+        "lines": [
+          "Wie oft greifst du",
+          "täglich zum Handy?"
+        ],
+        "sub": "Speichern & morgen starten.",
+        "pill": "Folge für mehr → vital.erfolg"
+      }
+    ],
+    "caption": "Du kannst keine 10 Minuten ohne zu wischen? Das ist kein Charakterfehler – dein Dopamin-System ist überreizt. Der 7-Tage-Reset:\n\n📵 TAG 1–2 – Kein Handy in der ersten und letzten Stunde des Tages.\n⏳ TAG 3–4 – Langeweile zulassen. Keine Reize beim Warten, Essen, Gehen.\n🎯 TAG 5 – Eine Aufgabe, 60 Minuten, ein Tab. Tiefe statt Sprünge.\n🌅 TAG 6 – Morgens echtes Licht statt Bildschirm.\n🔁 TAG 7 – Bewusst belohnen: nach der Arbeit, nicht davor.\n\nNach einer Woche fühlt sich Fokus wieder mühelos an.\n\n💾 Speichere den Reset.\n👇 Wie oft greifst du am Tag zum Handy?\n\n#vitalerfolg #highperformance #biohacking #fokus #dopamin #produktivität #disziplin #selbstoptimierung #deepwork #erfolg"
+  },
+  {
+    "id": "post04",
+    "pillar": "Energie",
+    "format": "single",
+    "template": "A",
+    "status": "queued",
+    "fields": {
+      "line1": "Dein Frühstück",
+      "line2": "macht dich dumm.",
+      "line3": "Jeden Morgen.",
+      "subline": "Und du wunderst dich um 14 Uhr.",
+      "pill": "Die Frühstücks-Formel in der Caption"
+    },
+    "caption": "Müsli, Toast, Orangensaft – das „gesunde\" Frühstück ist eine Blutzucker-Achterbahn. Spike um 8, Crash um 11, Heißhunger um 14 Uhr. So geht's richtig:\n\n🥩 PROTEIN ZUERST – 30 g zum Start (Eier, Quark, Skyr). Hält Blutzucker und Fokus stabil.\n🥑 FETT STATT ZUCKER – Avocado, Nüsse, Olivenöl. Energie, die 5 Stunden trägt.\n🚫 KEINE FLÜSSIGEN ZUCKER – Saft ist Cola mit Image. Iss die Frucht, trink sie nicht.\n⏱️ ODER GAR NICHTS – Wenn du morgens nicht hungrig bist: zwing dich nicht. Schwarzer Kaffee und los.\n\nFrühstück ist nicht Pflicht. Aber wenn, dann strategisch.\n\n💾 Speichere die Formel.\n👇 Was isst du morgens?\n\n#vitalerfolg #highperformance #biohacking #energie #ernährung #blutzucker #produktivität #selbstoptimierung #fokus #erfolg"
+  },
+  {
+    "id": "post07",
+    "pillar": "Energie",
+    "format": "single",
+    "template": "C",
+    "status": "queued",
+    "fields": {
+      "mythos": [
+        "Krafttraining ist",
+        "reine Eitelkeit."
+      ],
+      "fakt": [
+        "Es ist Insulin-Sensitivität,",
+        "Testosteron und",
+        "Schutz fürs Alter."
+      ],
+      "pill": "Warum Krafttraining in der Caption"
+    },
+    "caption": "Krafttraining ist keine Eitelkeit. Es ist die beste Investition in dein zukünftiges Ich – und in deinen Kopf heute:\n\n🩸 INSULIN-SENSITIVITÄT – Muskeln verbrennen Blutzucker. Mehr Muskel = stabilere Energie, weniger Crashes.\n🔥 HORMONE – Krafttraining hebt Testosteron und Wachstumshormone. Antrieb, Fokus, Stimmung.\n🛡️ STRESSRESISTENZ – Kontrollierter Stress im Training macht dich widerstandsfähiger im Alltag.\n🦴 ALTERSVORSORGE – Ab 30 baust du jährlich Muskeln ab, wenn du nichts tust.\n\n📋 DAS REICHT – 3× Woche, 45 Minuten, Grundübungen. Mehr braucht niemand. Weniger reicht nicht.\n\n💾 Speichere den Plan.\n👇 Trainierst du schon mit Gewichten?\n\n#vitalerfolg #highperformance #biohacking #krafttraining #testosteron #disziplin #energie #selbstoptimierung #mindset #erfolg"
+  },
+  {
+    "id": "post06",
+    "pillar": "Energie",
+    "format": "carousel",
+    "status": "queued",
+    "slides": [
+      {
+        "type": "hook",
+        "line1": "Das Erste am Morgen",
+        "line2": "entscheidet",
+        "line3": "über deinen Tag.",
+        "subline": "Die richtige Reihenfolge."
+      },
+      {
+        "type": "point",
+        "tag": "01",
+        "heading": "Licht zuerst",
+        "body": [
+          "5–10 Min. Tageslicht ins Auge.",
+          "Reguliert Cortisol & innere Uhr."
+        ]
+      },
+      {
+        "type": "point",
+        "tag": "02",
+        "heading": "Wasser vor Kaffee",
+        "body": [
+          "Nach 8 Std. bist du dehydriert.",
+          "Erst auffüllen, dann Koffein."
+        ]
+      },
+      {
+        "type": "point",
+        "tag": "03",
+        "heading": "Bewegung",
+        "body": [
+          "5 Minuten reichen.",
+          "Kreislauf & Kopf kommen in Gang."
+        ]
+      },
+      {
+        "type": "point",
+        "tag": "04",
+        "heading": "Kaffee – aber später",
+        "body": [
+          "90 Min. nach dem Aufwachen.",
+          "Sonst sabotierst du dein Cortisol."
+        ]
+      },
+      {
+        "type": "point",
+        "tag": "05",
+        "heading": "Handy zuletzt",
+        "body": [
+          "Erst dein Tag,",
+          "dann der aller anderen."
+        ]
+      },
+      {
+        "type": "cta",
+        "lines": [
+          "Was ist dein",
+          "erster Griff?"
+        ],
+        "sub": "Speichern & morgen umdrehen.",
+        "pill": "Folge für mehr → vital.erfolg"
+      }
+    ],
+    "caption": "Die ersten 20 Minuten programmieren deine nächsten 16 Stunden. Die meisten verbrennen sie am Bildschirm. Die richtige Reihenfolge:\n\n☀️ LICHT ZUERST – 5–10 Min. Tageslicht in die Augen. Reguliert Cortisol und stellt deine innere Uhr.\n💧 WASSER VOR KAFFEE – Nach 8 Stunden bist du dehydriert. Erst auffüllen, dann koffeinieren.\n🚶 BEWEGUNG – 5 Minuten reichen. Bringt Kreislauf und Kopf in Gang.\n☕ KAFFEE – 90 Minuten nach dem Aufwachen, nicht sofort.\n📵 HANDY ZULETZT – Erst dein Tag, dann der aller anderen.\n\n💾 Speichere die Sequenz.\n👇 Was ist dein erster Griff am Morgen?\n\n#vitalerfolg #highperformance #biohacking #morgenroutine #energie #cortisol #produktivität #selbstoptimierung #mindset #erfolg"
+  },
+  {
+    "id": "post08",
+    "pillar": "Fokus",
+    "format": "single",
+    "template": "D",
+    "status": "queued",
+    "fields": {
+      "quote": [
+        [
+          "Du bist nicht",
+          "white"
+        ],
+        [
+          "gestresst.",
+          "cream"
+        ],
+        [
+          "Du bist",
+          "white"
+        ],
+        [
+          "dysreguliert.",
+          "cream"
+        ]
+      ],
+      "attribution": "— vital.erfolg",
+      "pill": "Dein Nervensystem in der Caption"
+    },
+    "caption": "„Ich bin gestresst\" ist die falsche Diagnose. Stress ist normal. Das Problem ist, dass dein Nervensystem nicht mehr runterfährt. So regulierst du es:\n\n🫁 ATMUNG – Ausatmen länger als einatmen (z. B. 4 ein, 6 aus). Schaltet aktiv auf Entspannung.\n🌳 NATUR – 20 Min. draußen senken Cortisol messbar. Kein Bildschirm, kein Podcast.\n📵 REIZ-PAUSEN – Dein System braucht Phasen ohne Input. Stille ist Wartung, kein Zeitverlust.\n😴 SCHLAF – Das mächtigste Regulations-Tool überhaupt.\n\nDu musst nicht weniger leisten. Du musst lernen, zwischen den Belastungen runterzukommen.\n\n💾 Speichere den Post.\n👇 Wann kommst du wirklich zur Ruhe?\n\n#vitalerfolg #highperformance #biohacking #nervensystem #stress #regeneration #mindset #selbstoptimierung #fokus #erfolg"
+  },
+  {
+    "id": "post09",
+    "pillar": "Schlaf",
+    "format": "single",
+    "template": "A",
+    "status": "queued",
+    "fields": {
+      "line1": "Warum du nachts",
+      "line2": "wachliegst",
+      "line3": "– trotz Müdigkeit.",
+      "subline": "Es liegt nicht am Kaffee.",
+      "pill": "Die 4 Ursachen in der Caption"
+    },
+    "caption": "Todmüde, aber sobald der Kopf aufs Kissen trifft, dreht das Gehirn auf. Meist steckt das dahinter:\n\n💡 ZU VIEL LICHT ABENDS – Helle Räume und Bildschirme bremsen Melatonin. Ab 21 Uhr: dimmen.\n🧠 UNVERARBEITETER TAG – Dein Kopf erledigt im Bett, was du tagsüber nicht abgeschlossen hast. Brain-Dump auf Papier.\n📈 CORTISOL ZU HOCH – Stress, spätes Training oder Doomscrolling halten dich im Alarm-Modus.\n🍽️ ZU SPÄT GEGESSEN – Letzte Mahlzeit 3 Std. vor dem Bett.\n\nSchlaf ist kein Schalter. Es ist eine Landung – und die beginnt Stunden vorher.\n\n💾 Speichere die Ursachen.\n👇 Welche trifft auf dich zu?\n\n#vitalerfolg #highperformance #biohacking #schlaf #melatonin #regeneration #mindset #selbstoptimierung #abendroutine #erfolg"
+  }
+]
